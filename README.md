@@ -1,5 +1,6 @@
-# Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=46&duration=3000&pause=800&color=FF4C4C&width=600&height=100&lines=Hello+there!)](https://git.io/typing-svg)
 ## 💫 About Me
 I’m NeatLovin, a Business IT student who likes building things end-to-end — from understanding the need to shipping a working solution and iterating on it.<br>I enjoy connecting tech with real business problems with a product mindset: clarity, usability, and impact.<br>This GitHub is my playground and portfolio: coursework, prototypes, experiments, and projects I keep refining over time.
 
